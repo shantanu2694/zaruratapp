@@ -1,0 +1,5 @@
+db_name : zarurat_login_info
+db_host: 18.191.190.209
+db_user: root
+db_password: password
+db_table: login_info

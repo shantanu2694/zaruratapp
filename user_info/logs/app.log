@@ -1,0 +1,29 @@
+2020-12-12 01:21:16 - INFO - finding user from datastore
+2020-12-12 01:30:36 - INFO - finding user from datastore
+2020-12-12 01:30:39 - INFO - user found, returning info
+2020-12-12 02:03:57 - INFO - finding user from datastore
+2020-12-12 02:04:00 - INFO - user found, returning info
+2020-12-12 02:47:59 - INFO - finding user from datastore
+2020-12-12 02:48:02 - INFO - user found, returning info
+2020-12-12 02:57:21 - INFO - finding user from datastore
+2020-12-12 02:57:23 - INFO - user found, returning info
+2020-12-12 02:58:36 - INFO - finding bu user's id from datastore
+2020-12-12 02:58:39 - INFO - id found, returning info
+2020-12-12 02:59:25 - INFO - finding bu user's id from datastore
+2020-12-12 02:59:27 - INFO - id found, returning info
+2020-12-12 03:00:32 - INFO - finding bu user's id from datastore
+2020-12-12 03:00:34 - INFO - id found, returning info
+2020-12-12 03:00:45 - INFO - finding bu user's id from datastore
+2020-12-12 03:00:47 - INFO - id found, returning info
+2020-12-12 03:00:55 - INFO - finding bu user's id from datastore
+2020-12-12 03:00:57 - INFO - id found, returning info
+2020-12-12 03:14:31 - INFO - finding user from datastore
+2020-12-12 03:14:34 - ERROR - user not found, please register
+2020-12-12 03:14:46 - INFO - finding user from datastore
+2020-12-12 03:14:49 - INFO - user found, returning info
+2020-12-12 03:15:18 - INFO - finding bu user's id from datastore
+2020-12-12 03:15:21 - INFO - id found, returning info
+2020-12-12 03:16:14 - INFO - finding bu user's id from datastore
+2020-12-12 03:16:17 - INFO - id found, returning info
+2020-12-12 03:16:33 - INFO - finding bu user's id from datastore
+2020-12-12 03:16:36 - INFO - id found, returning info
